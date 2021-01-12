@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759690258381",
+    "project_id": "wisata-66c79",
+    "storage_bucket": "wisata-66c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759690258381:android:14e6eb07626e1612dc0684",
+        "android_client_info": {
+          "package_name": "id.ac.politeknikharber.wisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759690258381-vaeb9rtvhm2t0f0mpa6c4mr3uvd4nn1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6eOhR9jRO6_TsTJc_cOB770NOi3uHjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759690258381-vaeb9rtvhm2t0f0mpa6c4mr3uvd4nn1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
